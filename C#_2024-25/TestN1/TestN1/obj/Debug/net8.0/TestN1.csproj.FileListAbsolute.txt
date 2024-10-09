@@ -1,0 +1,14 @@
+C:\Users\Matteo\Desktop\C-Sharp 2024-25\TestN1\TestN1\bin\Debug\net8.0\TestN1.exe
+C:\Users\Matteo\Desktop\C-Sharp 2024-25\TestN1\TestN1\bin\Debug\net8.0\TestN1.deps.json
+C:\Users\Matteo\Desktop\C-Sharp 2024-25\TestN1\TestN1\bin\Debug\net8.0\TestN1.runtimeconfig.json
+C:\Users\Matteo\Desktop\C-Sharp 2024-25\TestN1\TestN1\bin\Debug\net8.0\TestN1.dll
+C:\Users\Matteo\Desktop\C-Sharp 2024-25\TestN1\TestN1\bin\Debug\net8.0\TestN1.pdb
+C:\Users\Matteo\Desktop\C-Sharp 2024-25\TestN1\TestN1\obj\Debug\net8.0\TestN1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matteo\Desktop\C-Sharp 2024-25\TestN1\TestN1\obj\Debug\net8.0\TestN1.AssemblyInfoInputs.cache
+C:\Users\Matteo\Desktop\C-Sharp 2024-25\TestN1\TestN1\obj\Debug\net8.0\TestN1.AssemblyInfo.cs
+C:\Users\Matteo\Desktop\C-Sharp 2024-25\TestN1\TestN1\obj\Debug\net8.0\TestN1.csproj.CoreCompileInputs.cache
+C:\Users\Matteo\Desktop\C-Sharp 2024-25\TestN1\TestN1\obj\Debug\net8.0\TestN1.dll
+C:\Users\Matteo\Desktop\C-Sharp 2024-25\TestN1\TestN1\obj\Debug\net8.0\refint\TestN1.dll
+C:\Users\Matteo\Desktop\C-Sharp 2024-25\TestN1\TestN1\obj\Debug\net8.0\TestN1.pdb
+C:\Users\Matteo\Desktop\C-Sharp 2024-25\TestN1\TestN1\obj\Debug\net8.0\TestN1.genruntimeconfig.cache
+C:\Users\Matteo\Desktop\C-Sharp 2024-25\TestN1\TestN1\obj\Debug\net8.0\ref\TestN1.dll

@@ -1,0 +1,14 @@
+C:\Users\matde\Desktop\Compito_23-09\es1-parolanascosta\es1-parolanascosta\bin\Debug\net8.0\es1-parolanascosta.exe
+C:\Users\matde\Desktop\Compito_23-09\es1-parolanascosta\es1-parolanascosta\bin\Debug\net8.0\es1-parolanascosta.deps.json
+C:\Users\matde\Desktop\Compito_23-09\es1-parolanascosta\es1-parolanascosta\bin\Debug\net8.0\es1-parolanascosta.runtimeconfig.json
+C:\Users\matde\Desktop\Compito_23-09\es1-parolanascosta\es1-parolanascosta\bin\Debug\net8.0\es1-parolanascosta.dll
+C:\Users\matde\Desktop\Compito_23-09\es1-parolanascosta\es1-parolanascosta\bin\Debug\net8.0\es1-parolanascosta.pdb
+C:\Users\matde\Desktop\Compito_23-09\es1-parolanascosta\es1-parolanascosta\obj\Debug\net8.0\es1-parolanascosta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matde\Desktop\Compito_23-09\es1-parolanascosta\es1-parolanascosta\obj\Debug\net8.0\es1-parolanascosta.AssemblyInfoInputs.cache
+C:\Users\matde\Desktop\Compito_23-09\es1-parolanascosta\es1-parolanascosta\obj\Debug\net8.0\es1-parolanascosta.AssemblyInfo.cs
+C:\Users\matde\Desktop\Compito_23-09\es1-parolanascosta\es1-parolanascosta\obj\Debug\net8.0\es1-parolanascosta.csproj.CoreCompileInputs.cache
+C:\Users\matde\Desktop\Compito_23-09\es1-parolanascosta\es1-parolanascosta\obj\Debug\net8.0\es1-parolanascosta.dll
+C:\Users\matde\Desktop\Compito_23-09\es1-parolanascosta\es1-parolanascosta\obj\Debug\net8.0\refint\es1-parolanascosta.dll
+C:\Users\matde\Desktop\Compito_23-09\es1-parolanascosta\es1-parolanascosta\obj\Debug\net8.0\es1-parolanascosta.pdb
+C:\Users\matde\Desktop\Compito_23-09\es1-parolanascosta\es1-parolanascosta\obj\Debug\net8.0\es1-parolanascosta.genruntimeconfig.cache
+C:\Users\matde\Desktop\Compito_23-09\es1-parolanascosta\es1-parolanascosta\obj\Debug\net8.0\ref\es1-parolanascosta.dll

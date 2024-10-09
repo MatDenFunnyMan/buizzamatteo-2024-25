@@ -1,0 +1,15 @@
+C:\Users\matde\Desktop\Info_Buizza\C-Sharp_2024-25\Compiti_casa\Compiti_20-09\Compiti_20-09\bin\Debug\net8.0\Compiti_20-09.exe
+C:\Users\matde\Desktop\Info_Buizza\C-Sharp_2024-25\Compiti_casa\Compiti_20-09\Compiti_20-09\bin\Debug\net8.0\Compiti_20-09.deps.json
+C:\Users\matde\Desktop\Info_Buizza\C-Sharp_2024-25\Compiti_casa\Compiti_20-09\Compiti_20-09\bin\Debug\net8.0\Compiti_20-09.runtimeconfig.json
+C:\Users\matde\Desktop\Info_Buizza\C-Sharp_2024-25\Compiti_casa\Compiti_20-09\Compiti_20-09\bin\Debug\net8.0\Compiti_20-09.dll
+C:\Users\matde\Desktop\Info_Buizza\C-Sharp_2024-25\Compiti_casa\Compiti_20-09\Compiti_20-09\bin\Debug\net8.0\Compiti_20-09.pdb
+C:\Users\matde\Desktop\Info_Buizza\C-Sharp_2024-25\Compiti_casa\Compiti_20-09\Compiti_20-09\obj\Debug\net8.0\Compiti_20-09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matde\Desktop\Info_Buizza\C-Sharp_2024-25\Compiti_casa\Compiti_20-09\Compiti_20-09\obj\Debug\net8.0\Compiti_20-09.AssemblyInfoInputs.cache
+C:\Users\matde\Desktop\Info_Buizza\C-Sharp_2024-25\Compiti_casa\Compiti_20-09\Compiti_20-09\obj\Debug\net8.0\Compiti_20-09.AssemblyInfo.cs
+C:\Users\matde\Desktop\Info_Buizza\C-Sharp_2024-25\Compiti_casa\Compiti_20-09\Compiti_20-09\obj\Debug\net8.0\Compiti_20-09.csproj.CoreCompileInputs.cache
+C:\Users\matde\Desktop\Info_Buizza\C-Sharp_2024-25\Compiti_casa\Compiti_20-09\Compiti_20-09\obj\Debug\net8.0\Compiti_20-09.sourcelink.json
+C:\Users\matde\Desktop\Info_Buizza\C-Sharp_2024-25\Compiti_casa\Compiti_20-09\Compiti_20-09\obj\Debug\net8.0\Compiti_20-09.dll
+C:\Users\matde\Desktop\Info_Buizza\C-Sharp_2024-25\Compiti_casa\Compiti_20-09\Compiti_20-09\obj\Debug\net8.0\refint\Compiti_20-09.dll
+C:\Users\matde\Desktop\Info_Buizza\C-Sharp_2024-25\Compiti_casa\Compiti_20-09\Compiti_20-09\obj\Debug\net8.0\Compiti_20-09.pdb
+C:\Users\matde\Desktop\Info_Buizza\C-Sharp_2024-25\Compiti_casa\Compiti_20-09\Compiti_20-09\obj\Debug\net8.0\Compiti_20-09.genruntimeconfig.cache
+C:\Users\matde\Desktop\Info_Buizza\C-Sharp_2024-25\Compiti_casa\Compiti_20-09\Compiti_20-09\obj\Debug\net8.0\ref\Compiti_20-09.dll

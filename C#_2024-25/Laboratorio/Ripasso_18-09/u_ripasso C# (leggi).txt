@@ -1,0 +1,3 @@
+Linguaggio compilato --> non parte se ci sono errori
+Chiamante = il programma
+Stringa interpolata con C# --> usa il "$" (Es: Console.WriteLine($"Hai inserito il numero {x}, che moltiplicato per 5 fa {x*5}");)

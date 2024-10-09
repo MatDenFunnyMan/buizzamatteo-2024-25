@@ -1,0 +1,7 @@
+TestN1 = Introduzione C# (15-09)
+
+Laboratorio:
+
+Ripasso_18-09 = Ripasso concetti chiave programmazione + introduzione/approfondimento C# (18-09)
+Ripasso_18-09_B = Ripasso costrutti (selezione/cicli) in C#
+Es_18-09 = Esercizio in Laboratorio

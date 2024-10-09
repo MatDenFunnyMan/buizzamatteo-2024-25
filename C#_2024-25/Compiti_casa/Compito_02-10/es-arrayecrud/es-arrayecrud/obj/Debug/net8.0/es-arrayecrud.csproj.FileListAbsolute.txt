@@ -1,0 +1,14 @@
+C:\Users\matde\Desktop\Compito_02-10\es-arrayecrud\es-arrayecrud\bin\Debug\net8.0\es-arrayecrud.exe
+C:\Users\matde\Desktop\Compito_02-10\es-arrayecrud\es-arrayecrud\bin\Debug\net8.0\es-arrayecrud.deps.json
+C:\Users\matde\Desktop\Compito_02-10\es-arrayecrud\es-arrayecrud\bin\Debug\net8.0\es-arrayecrud.runtimeconfig.json
+C:\Users\matde\Desktop\Compito_02-10\es-arrayecrud\es-arrayecrud\bin\Debug\net8.0\es-arrayecrud.dll
+C:\Users\matde\Desktop\Compito_02-10\es-arrayecrud\es-arrayecrud\bin\Debug\net8.0\es-arrayecrud.pdb
+C:\Users\matde\Desktop\Compito_02-10\es-arrayecrud\es-arrayecrud\obj\Debug\net8.0\es-arrayecrud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matde\Desktop\Compito_02-10\es-arrayecrud\es-arrayecrud\obj\Debug\net8.0\es-arrayecrud.AssemblyInfoInputs.cache
+C:\Users\matde\Desktop\Compito_02-10\es-arrayecrud\es-arrayecrud\obj\Debug\net8.0\es-arrayecrud.AssemblyInfo.cs
+C:\Users\matde\Desktop\Compito_02-10\es-arrayecrud\es-arrayecrud\obj\Debug\net8.0\es-arrayecrud.csproj.CoreCompileInputs.cache
+C:\Users\matde\Desktop\Compito_02-10\es-arrayecrud\es-arrayecrud\obj\Debug\net8.0\es-arrayecrud.dll
+C:\Users\matde\Desktop\Compito_02-10\es-arrayecrud\es-arrayecrud\obj\Debug\net8.0\refint\es-arrayecrud.dll
+C:\Users\matde\Desktop\Compito_02-10\es-arrayecrud\es-arrayecrud\obj\Debug\net8.0\es-arrayecrud.pdb
+C:\Users\matde\Desktop\Compito_02-10\es-arrayecrud\es-arrayecrud\obj\Debug\net8.0\es-arrayecrud.genruntimeconfig.cache
+C:\Users\matde\Desktop\Compito_02-10\es-arrayecrud\es-arrayecrud\obj\Debug\net8.0\ref\es-arrayecrud.dll

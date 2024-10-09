@@ -1,0 +1,14 @@
+C:\Users\Matteo\Desktop\Info_30-09\InfoO_30-09\InfoO_30-09\bin\Debug\net8.0\InfoO_30-09.exe
+C:\Users\Matteo\Desktop\Info_30-09\InfoO_30-09\InfoO_30-09\bin\Debug\net8.0\InfoO_30-09.deps.json
+C:\Users\Matteo\Desktop\Info_30-09\InfoO_30-09\InfoO_30-09\bin\Debug\net8.0\InfoO_30-09.runtimeconfig.json
+C:\Users\Matteo\Desktop\Info_30-09\InfoO_30-09\InfoO_30-09\bin\Debug\net8.0\InfoO_30-09.dll
+C:\Users\Matteo\Desktop\Info_30-09\InfoO_30-09\InfoO_30-09\bin\Debug\net8.0\InfoO_30-09.pdb
+C:\Users\Matteo\Desktop\Info_30-09\InfoO_30-09\InfoO_30-09\obj\Debug\net8.0\InfoO_30-09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matteo\Desktop\Info_30-09\InfoO_30-09\InfoO_30-09\obj\Debug\net8.0\InfoO_30-09.AssemblyInfoInputs.cache
+C:\Users\Matteo\Desktop\Info_30-09\InfoO_30-09\InfoO_30-09\obj\Debug\net8.0\InfoO_30-09.AssemblyInfo.cs
+C:\Users\Matteo\Desktop\Info_30-09\InfoO_30-09\InfoO_30-09\obj\Debug\net8.0\InfoO_30-09.csproj.CoreCompileInputs.cache
+C:\Users\Matteo\Desktop\Info_30-09\InfoO_30-09\InfoO_30-09\obj\Debug\net8.0\InfoO_30-09.dll
+C:\Users\Matteo\Desktop\Info_30-09\InfoO_30-09\InfoO_30-09\obj\Debug\net8.0\refint\InfoO_30-09.dll
+C:\Users\Matteo\Desktop\Info_30-09\InfoO_30-09\InfoO_30-09\obj\Debug\net8.0\InfoO_30-09.pdb
+C:\Users\Matteo\Desktop\Info_30-09\InfoO_30-09\InfoO_30-09\obj\Debug\net8.0\InfoO_30-09.genruntimeconfig.cache
+C:\Users\Matteo\Desktop\Info_30-09\InfoO_30-09\InfoO_30-09\obj\Debug\net8.0\ref\InfoO_30-09.dll

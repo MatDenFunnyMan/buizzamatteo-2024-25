@@ -1,0 +1,15 @@
+F:\Main folder\Buizza Matteo - Main folder\Scuola\A.S. 2024-2025\Informatica\C-Sharp_2024-25\Laboratorio\Ripasso_19-08_B\Ripasso_19-08_B\bin\Debug\net6.0\Ripasso_19-08_B.exe
+F:\Main folder\Buizza Matteo - Main folder\Scuola\A.S. 2024-2025\Informatica\C-Sharp_2024-25\Laboratorio\Ripasso_19-08_B\Ripasso_19-08_B\bin\Debug\net6.0\Ripasso_19-08_B.deps.json
+F:\Main folder\Buizza Matteo - Main folder\Scuola\A.S. 2024-2025\Informatica\C-Sharp_2024-25\Laboratorio\Ripasso_19-08_B\Ripasso_19-08_B\bin\Debug\net6.0\Ripasso_19-08_B.runtimeconfig.json
+F:\Main folder\Buizza Matteo - Main folder\Scuola\A.S. 2024-2025\Informatica\C-Sharp_2024-25\Laboratorio\Ripasso_19-08_B\Ripasso_19-08_B\bin\Debug\net6.0\Ripasso_19-08_B.dll
+F:\Main folder\Buizza Matteo - Main folder\Scuola\A.S. 2024-2025\Informatica\C-Sharp_2024-25\Laboratorio\Ripasso_19-08_B\Ripasso_19-08_B\bin\Debug\net6.0\Ripasso_19-08_B.pdb
+F:\Main folder\Buizza Matteo - Main folder\Scuola\A.S. 2024-2025\Informatica\C-Sharp_2024-25\Laboratorio\Ripasso_19-08_B\Ripasso_19-08_B\obj\Debug\net6.0\Ripasso_19-08_B.csproj.AssemblyReference.cache
+F:\Main folder\Buizza Matteo - Main folder\Scuola\A.S. 2024-2025\Informatica\C-Sharp_2024-25\Laboratorio\Ripasso_19-08_B\Ripasso_19-08_B\obj\Debug\net6.0\Ripasso_19-08_B.GeneratedMSBuildEditorConfig.editorconfig
+F:\Main folder\Buizza Matteo - Main folder\Scuola\A.S. 2024-2025\Informatica\C-Sharp_2024-25\Laboratorio\Ripasso_19-08_B\Ripasso_19-08_B\obj\Debug\net6.0\Ripasso_19-08_B.AssemblyInfoInputs.cache
+F:\Main folder\Buizza Matteo - Main folder\Scuola\A.S. 2024-2025\Informatica\C-Sharp_2024-25\Laboratorio\Ripasso_19-08_B\Ripasso_19-08_B\obj\Debug\net6.0\Ripasso_19-08_B.AssemblyInfo.cs
+F:\Main folder\Buizza Matteo - Main folder\Scuola\A.S. 2024-2025\Informatica\C-Sharp_2024-25\Laboratorio\Ripasso_19-08_B\Ripasso_19-08_B\obj\Debug\net6.0\Ripasso_19-08_B.csproj.CoreCompileInputs.cache
+F:\Main folder\Buizza Matteo - Main folder\Scuola\A.S. 2024-2025\Informatica\C-Sharp_2024-25\Laboratorio\Ripasso_19-08_B\Ripasso_19-08_B\obj\Debug\net6.0\Ripasso_19-08_B.dll
+F:\Main folder\Buizza Matteo - Main folder\Scuola\A.S. 2024-2025\Informatica\C-Sharp_2024-25\Laboratorio\Ripasso_19-08_B\Ripasso_19-08_B\obj\Debug\net6.0\refint\Ripasso_19-08_B.dll
+F:\Main folder\Buizza Matteo - Main folder\Scuola\A.S. 2024-2025\Informatica\C-Sharp_2024-25\Laboratorio\Ripasso_19-08_B\Ripasso_19-08_B\obj\Debug\net6.0\Ripasso_19-08_B.pdb
+F:\Main folder\Buizza Matteo - Main folder\Scuola\A.S. 2024-2025\Informatica\C-Sharp_2024-25\Laboratorio\Ripasso_19-08_B\Ripasso_19-08_B\obj\Debug\net6.0\Ripasso_19-08_B.genruntimeconfig.cache
+F:\Main folder\Buizza Matteo - Main folder\Scuola\A.S. 2024-2025\Informatica\C-Sharp_2024-25\Laboratorio\Ripasso_19-08_B\Ripasso_19-08_B\obj\Debug\net6.0\ref\Ripasso_19-08_B.dll

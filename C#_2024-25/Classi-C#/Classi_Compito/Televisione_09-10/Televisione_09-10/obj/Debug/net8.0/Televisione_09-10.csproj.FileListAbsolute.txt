@@ -1,0 +1,14 @@
+C:\Users\matde\Documents\Classi_C#\Televisione_09-10\Televisione_09-10\bin\Debug\net8.0\Televisione_09-10.exe
+C:\Users\matde\Documents\Classi_C#\Televisione_09-10\Televisione_09-10\bin\Debug\net8.0\Televisione_09-10.deps.json
+C:\Users\matde\Documents\Classi_C#\Televisione_09-10\Televisione_09-10\bin\Debug\net8.0\Televisione_09-10.runtimeconfig.json
+C:\Users\matde\Documents\Classi_C#\Televisione_09-10\Televisione_09-10\bin\Debug\net8.0\Televisione_09-10.dll
+C:\Users\matde\Documents\Classi_C#\Televisione_09-10\Televisione_09-10\bin\Debug\net8.0\Televisione_09-10.pdb
+C:\Users\matde\Documents\Classi_C#\Televisione_09-10\Televisione_09-10\obj\Debug\net8.0\Televisione_09-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matde\Documents\Classi_C#\Televisione_09-10\Televisione_09-10\obj\Debug\net8.0\Televisione_09-10.AssemblyInfoInputs.cache
+C:\Users\matde\Documents\Classi_C#\Televisione_09-10\Televisione_09-10\obj\Debug\net8.0\Televisione_09-10.AssemblyInfo.cs
+C:\Users\matde\Documents\Classi_C#\Televisione_09-10\Televisione_09-10\obj\Debug\net8.0\Televisione_09-10.csproj.CoreCompileInputs.cache
+C:\Users\matde\Documents\Classi_C#\Televisione_09-10\Televisione_09-10\obj\Debug\net8.0\Televisione_09-10.dll
+C:\Users\matde\Documents\Classi_C#\Televisione_09-10\Televisione_09-10\obj\Debug\net8.0\refint\Televisione_09-10.dll
+C:\Users\matde\Documents\Classi_C#\Televisione_09-10\Televisione_09-10\obj\Debug\net8.0\Televisione_09-10.pdb
+C:\Users\matde\Documents\Classi_C#\Televisione_09-10\Televisione_09-10\obj\Debug\net8.0\Televisione_09-10.genruntimeconfig.cache
+C:\Users\matde\Documents\Classi_C#\Televisione_09-10\Televisione_09-10\obj\Debug\net8.0\ref\Televisione_09-10.dll

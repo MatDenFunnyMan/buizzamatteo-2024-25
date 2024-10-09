@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matde\\Desktop\\Info_Buizza\\C-Sharp_2024-25\\TestN1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73D4E830-62F0-4B2B-B5D0-7DBEC262F65E}|TestN1\\TestN1.csproj|c:\\users\\matde\\desktop\\info_buizza\\c-sharp_2024-25\\testn1\\testn1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D4E830-62F0-4B2B-B5D0-7DBEC262F65E}|TestN1\\TestN1.csproj|solutionrelative:testn1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matde\\Desktop\\Info_Buizza\\C-Sharp_2024-25\\TestN1\\TestN1\\Program.cs",
+              "RelativeDocumentMoniker": "TestN1\\Program.cs",
+              "ToolTip": "C:\\Users\\matde\\Desktop\\Info_Buizza\\C-Sharp_2024-25\\TestN1\\TestN1\\Program.cs",
+              "RelativeToolTip": "TestN1\\Program.cs",
+              "ViewState": "AgIAAKUAAAAAbWZmZmYuwMQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T18:05:58.311Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

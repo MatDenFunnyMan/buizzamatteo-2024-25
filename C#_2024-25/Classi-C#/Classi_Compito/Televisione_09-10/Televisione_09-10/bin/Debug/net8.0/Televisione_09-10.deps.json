@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Televisione_09-10/1.0.0": {
+        "runtime": {
+          "Televisione_09-10.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Televisione_09-10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
