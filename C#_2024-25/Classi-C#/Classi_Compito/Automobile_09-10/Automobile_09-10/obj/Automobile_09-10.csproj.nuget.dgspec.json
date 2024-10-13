@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\matde\\Documents\\Classi_C#\\Automobile_09-10\\Automobile_09-10\\Automobile_09-10.csproj": {}
+    "C:\\Users\\matde\\Desktop\\Info-Buizza\\C#_2024-25\\Classi-C#\\Classi_Compito\\Automobile_09-10\\Automobile_09-10\\Automobile_09-10.csproj": {}
   },
   "projects": {
-    "C:\\Users\\matde\\Documents\\Classi_C#\\Automobile_09-10\\Automobile_09-10\\Automobile_09-10.csproj": {
+    "C:\\Users\\matde\\Desktop\\Info-Buizza\\C#_2024-25\\Classi-C#\\Classi_Compito\\Automobile_09-10\\Automobile_09-10\\Automobile_09-10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\matde\\Documents\\Classi_C#\\Automobile_09-10\\Automobile_09-10\\Automobile_09-10.csproj",
+        "projectUniqueName": "C:\\Users\\matde\\Desktop\\Info-Buizza\\C#_2024-25\\Classi-C#\\Classi_Compito\\Automobile_09-10\\Automobile_09-10\\Automobile_09-10.csproj",
         "projectName": "Automobile_09-10",
-        "projectPath": "C:\\Users\\matde\\Documents\\Classi_C#\\Automobile_09-10\\Automobile_09-10\\Automobile_09-10.csproj",
+        "projectPath": "C:\\Users\\matde\\Desktop\\Info-Buizza\\C#_2024-25\\Classi-C#\\Classi_Compito\\Automobile_09-10\\Automobile_09-10\\Automobile_09-10.csproj",
         "packagesPath": "C:\\Users\\matde\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\matde\\Documents\\Classi_C#\\Automobile_09-10\\Automobile_09-10\\obj\\",
+        "outputPath": "C:\\Users\\matde\\Desktop\\Info-Buizza\\C#_2024-25\\Classi-C#\\Classi_Compito\\Automobile_09-10\\Automobile_09-10\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

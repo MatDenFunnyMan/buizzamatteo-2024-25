@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matde\\source\\repos\\Studente_11-10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61E0DBA1-6B52-47A6-B665-56E9A5BDD81F}|Studente_11-10\\Studente_11-10.csproj|c:\\users\\matde\\source\\repos\\studente_11-10\\studente_11-10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E0DBA1-6B52-47A6-B665-56E9A5BDD81F}|Studente_11-10\\Studente_11-10.csproj|solutionrelative:studente_11-10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E0DBA1-6B52-47A6-B665-56E9A5BDD81F}|Studente_11-10\\Studente_11-10.csproj|c:\\users\\matde\\source\\repos\\studente_11-10\\studente_11-10\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E0DBA1-6B52-47A6-B665-56E9A5BDD81F}|Studente_11-10\\Studente_11-10.csproj|solutionrelative:studente_11-10\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Studente.cs",
+              "DocumentMoniker": "C:\\Users\\matde\\source\\repos\\Studente_11-10\\Studente_11-10\\Studente.cs",
+              "RelativeDocumentMoniker": "Studente_11-10\\Studente.cs",
+              "ToolTip": "C:\\Users\\matde\\source\\repos\\Studente_11-10\\Studente_11-10\\Studente.cs",
+              "RelativeToolTip": "Studente_11-10\\Studente.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwGQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T09:53:43.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matde\\source\\repos\\Studente_11-10\\Studente_11-10\\Program.cs",
+              "RelativeDocumentMoniker": "Studente_11-10\\Program.cs",
+              "ToolTip": "C:\\Users\\matde\\source\\repos\\Studente_11-10\\Studente_11-10\\Program.cs",
+              "RelativeToolTip": "Studente_11-10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T09:53:11.624Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\matde\Documents\Furgone_11-09\Furgone_11-09\bin\Debug\net8.0\Furgone_11-09.exe
+C:\Users\matde\Documents\Furgone_11-09\Furgone_11-09\bin\Debug\net8.0\Furgone_11-09.deps.json
+C:\Users\matde\Documents\Furgone_11-09\Furgone_11-09\bin\Debug\net8.0\Furgone_11-09.runtimeconfig.json
+C:\Users\matde\Documents\Furgone_11-09\Furgone_11-09\bin\Debug\net8.0\Furgone_11-09.dll
+C:\Users\matde\Documents\Furgone_11-09\Furgone_11-09\bin\Debug\net8.0\Furgone_11-09.pdb
+C:\Users\matde\Documents\Furgone_11-09\Furgone_11-09\obj\Debug\net8.0\Furgone_11-09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matde\Documents\Furgone_11-09\Furgone_11-09\obj\Debug\net8.0\Furgone_11-09.AssemblyInfoInputs.cache
+C:\Users\matde\Documents\Furgone_11-09\Furgone_11-09\obj\Debug\net8.0\Furgone_11-09.AssemblyInfo.cs
+C:\Users\matde\Documents\Furgone_11-09\Furgone_11-09\obj\Debug\net8.0\Furgone_11-09.csproj.CoreCompileInputs.cache
+C:\Users\matde\Documents\Furgone_11-09\Furgone_11-09\obj\Debug\net8.0\Furgone_11-09.dll
+C:\Users\matde\Documents\Furgone_11-09\Furgone_11-09\obj\Debug\net8.0\refint\Furgone_11-09.dll
+C:\Users\matde\Documents\Furgone_11-09\Furgone_11-09\obj\Debug\net8.0\Furgone_11-09.pdb
+C:\Users\matde\Documents\Furgone_11-09\Furgone_11-09\obj\Debug\net8.0\Furgone_11-09.genruntimeconfig.cache
+C:\Users\matde\Documents\Furgone_11-09\Furgone_11-09\obj\Debug\net8.0\ref\Furgone_11-09.dll

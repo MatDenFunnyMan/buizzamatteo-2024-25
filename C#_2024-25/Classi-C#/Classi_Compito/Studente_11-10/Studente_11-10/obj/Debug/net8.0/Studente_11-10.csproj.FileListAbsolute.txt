@@ -1,0 +1,14 @@
+C:\Users\matde\source\repos\Studente_11-10\Studente_11-10\obj\Debug\net8.0\Studente_11-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matde\source\repos\Studente_11-10\Studente_11-10\obj\Debug\net8.0\Studente_11-10.AssemblyInfoInputs.cache
+C:\Users\matde\source\repos\Studente_11-10\Studente_11-10\obj\Debug\net8.0\Studente_11-10.AssemblyInfo.cs
+C:\Users\matde\source\repos\Studente_11-10\Studente_11-10\obj\Debug\net8.0\Studente_11-10.csproj.CoreCompileInputs.cache
+C:\Users\matde\source\repos\Studente_11-10\Studente_11-10\bin\Debug\net8.0\Studente_11-10.exe
+C:\Users\matde\source\repos\Studente_11-10\Studente_11-10\bin\Debug\net8.0\Studente_11-10.deps.json
+C:\Users\matde\source\repos\Studente_11-10\Studente_11-10\bin\Debug\net8.0\Studente_11-10.runtimeconfig.json
+C:\Users\matde\source\repos\Studente_11-10\Studente_11-10\bin\Debug\net8.0\Studente_11-10.dll
+C:\Users\matde\source\repos\Studente_11-10\Studente_11-10\bin\Debug\net8.0\Studente_11-10.pdb
+C:\Users\matde\source\repos\Studente_11-10\Studente_11-10\obj\Debug\net8.0\Studente_11-10.dll
+C:\Users\matde\source\repos\Studente_11-10\Studente_11-10\obj\Debug\net8.0\refint\Studente_11-10.dll
+C:\Users\matde\source\repos\Studente_11-10\Studente_11-10\obj\Debug\net8.0\Studente_11-10.pdb
+C:\Users\matde\source\repos\Studente_11-10\Studente_11-10\obj\Debug\net8.0\Studente_11-10.genruntimeconfig.cache
+C:\Users\matde\source\repos\Studente_11-10\Studente_11-10\obj\Debug\net8.0\ref\Studente_11-10.dll

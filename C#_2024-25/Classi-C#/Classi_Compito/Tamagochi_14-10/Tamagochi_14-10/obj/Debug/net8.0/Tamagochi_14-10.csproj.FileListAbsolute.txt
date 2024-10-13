@@ -1,0 +1,14 @@
+C:\Users\matde\Documents\Tamagochi_14-10\Tamagochi_14-10\obj\Debug\net8.0\Tamagochi_14-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matde\Documents\Tamagochi_14-10\Tamagochi_14-10\obj\Debug\net8.0\Tamagochi_14-10.AssemblyInfoInputs.cache
+C:\Users\matde\Documents\Tamagochi_14-10\Tamagochi_14-10\obj\Debug\net8.0\Tamagochi_14-10.AssemblyInfo.cs
+C:\Users\matde\Documents\Tamagochi_14-10\Tamagochi_14-10\obj\Debug\net8.0\Tamagochi_14-10.csproj.CoreCompileInputs.cache
+C:\Users\matde\Documents\Tamagochi_14-10\Tamagochi_14-10\bin\Debug\net8.0\Tamagochi_14-10.exe
+C:\Users\matde\Documents\Tamagochi_14-10\Tamagochi_14-10\bin\Debug\net8.0\Tamagochi_14-10.deps.json
+C:\Users\matde\Documents\Tamagochi_14-10\Tamagochi_14-10\bin\Debug\net8.0\Tamagochi_14-10.runtimeconfig.json
+C:\Users\matde\Documents\Tamagochi_14-10\Tamagochi_14-10\bin\Debug\net8.0\Tamagochi_14-10.dll
+C:\Users\matde\Documents\Tamagochi_14-10\Tamagochi_14-10\bin\Debug\net8.0\Tamagochi_14-10.pdb
+C:\Users\matde\Documents\Tamagochi_14-10\Tamagochi_14-10\obj\Debug\net8.0\Tamagochi_14-10.dll
+C:\Users\matde\Documents\Tamagochi_14-10\Tamagochi_14-10\obj\Debug\net8.0\refint\Tamagochi_14-10.dll
+C:\Users\matde\Documents\Tamagochi_14-10\Tamagochi_14-10\obj\Debug\net8.0\Tamagochi_14-10.pdb
+C:\Users\matde\Documents\Tamagochi_14-10\Tamagochi_14-10\obj\Debug\net8.0\Tamagochi_14-10.genruntimeconfig.cache
+C:\Users\matde\Documents\Tamagochi_14-10\Tamagochi_14-10\obj\Debug\net8.0\ref\Tamagochi_14-10.dll
