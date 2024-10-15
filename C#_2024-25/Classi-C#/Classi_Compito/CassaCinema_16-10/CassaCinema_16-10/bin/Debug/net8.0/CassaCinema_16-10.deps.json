@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CassaCinema_16-10/1.0.0": {
+        "runtime": {
+          "CassaCinema_16-10.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CassaCinema_16-10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

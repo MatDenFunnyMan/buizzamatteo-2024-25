@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matde\\Documents\\CentraleElettrica_16-10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{409B936C-0A85-40DE-A285-A010BD7B65C8}|CentraleElettrica_16-10\\CentraleElettrica_16-10.csproj|c:\\users\\matde\\documents\\centraleelettrica_16-10\\centraleelettrica_16-10\\centraleelettrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{409B936C-0A85-40DE-A285-A010BD7B65C8}|CentraleElettrica_16-10\\CentraleElettrica_16-10.csproj|solutionrelative:centraleelettrica_16-10\\centraleelettrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{409B936C-0A85-40DE-A285-A010BD7B65C8}|CentraleElettrica_16-10\\CentraleElettrica_16-10.csproj|c:\\users\\matde\\documents\\centraleelettrica_16-10\\centraleelettrica_16-10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{409B936C-0A85-40DE-A285-A010BD7B65C8}|CentraleElettrica_16-10\\CentraleElettrica_16-10.csproj|solutionrelative:centraleelettrica_16-10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CentraleElettrica.cs",
+              "DocumentMoniker": "C:\\Users\\matde\\Documents\\CentraleElettrica_16-10\\CentraleElettrica_16-10\\CentraleElettrica.cs",
+              "RelativeDocumentMoniker": "CentraleElettrica_16-10\\CentraleElettrica.cs",
+              "ToolTip": "C:\\Users\\matde\\Documents\\CentraleElettrica_16-10\\CentraleElettrica_16-10\\CentraleElettrica.cs",
+              "RelativeToolTip": "CentraleElettrica_16-10\\CentraleElettrica.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T19:01:32.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matde\\Documents\\CentraleElettrica_16-10\\CentraleElettrica_16-10\\Program.cs",
+              "RelativeDocumentMoniker": "CentraleElettrica_16-10\\Program.cs",
+              "ToolTip": "C:\\Users\\matde\\Documents\\CentraleElettrica_16-10\\CentraleElettrica_16-10\\Program.cs",
+              "RelativeToolTip": "CentraleElettrica_16-10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:58:56.983Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
