@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\matde\\Desktop\\Info-Buizza\\C#_2024-25\\Classi-C#\\Classi_Compito\\Tris_21-10\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4D06FB0B-F103-4920-A806-8DAA80BD6400}|Tris_21-10\\Tris_21-10.csproj|c:\\users\\matde\\desktop\\info-buizza\\c#_2024-25\\classi-c#\\classi_compito\\tris_21-10\\tris_21-10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D06FB0B-F103-4920-A806-8DAA80BD6400}|Tris_21-10\\Tris_21-10.csproj|solutionrelative:tris_21-10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4D06FB0B-F103-4920-A806-8DAA80BD6400}|Tris_21-10\\Tris_21-10.csproj|c:\\users\\matde\\desktop\\info-buizza\\c#_2024-25\\classi-c#\\classi_compito\\tris_21-10\\tris_21-10\\tris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D06FB0B-F103-4920-A806-8DAA80BD6400}|Tris_21-10\\Tris_21-10.csproj|solutionrelative:tris_21-10\\tris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D06FB0B-F103-4920-A806-8DAA80BD6400}|Tris_21-10\\Tris_21-10.csproj|c:\\users\\matde\\desktop\\info-buizza\\c#_2024-25\\classi-c#\\classi_compito\\tris_21-10\\tris_21-10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D06FB0B-F103-4920-A806-8DAA80BD6400}|Tris_21-10\\Tris_21-10.csproj|solutionrelative:tris_21-10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D06FB0B-F103-4920-A806-8DAA80BD6400}|Tris_21-10\\Tris_21-10.csproj|c:\\users\\matde\\desktop\\info-buizza\\c#_2024-25\\classi-c#\\classi_compito\\tris_21-10\\tris_21-10\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D06FB0B-F103-4920-A806-8DAA80BD6400}|Tris_21-10\\Tris_21-10.csproj|solutionrelative:tris_21-10\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Computer.cs",
+              "DocumentMoniker": "C:\\Users\\matde\\Desktop\\Info-Buizza\\C#_2024-25\\Classi-C#\\Classi_Compito\\Tris_21-10\\Tris_21-10\\Computer.cs",
+              "RelativeDocumentMoniker": "Tris_21-10\\Computer.cs",
+              "ToolTip": "C:\\Users\\matde\\Desktop\\Info-Buizza\\C#_2024-25\\Classi-C#\\Classi_Compito\\Tris_21-10\\Tris_21-10\\Computer.cs",
+              "RelativeToolTip": "Tris_21-10\\Computer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:07:57.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Tris.cs",
               "DocumentMoniker": "C:\\Users\\matde\\Desktop\\Info-Buizza\\C#_2024-25\\Classi-C#\\Classi_Compito\\Tris_21-10\\Tris_21-10\\Tris.cs",
               "RelativeDocumentMoniker": "Tris_21-10\\Tris.cs",
               "ToolTip": "C:\\Users\\matde\\Desktop\\Info-Buizza\\C#_2024-25\\Classi-C#\\Classi_Compito\\Tris_21-10\\Tris_21-10\\Tris.cs",
               "RelativeToolTip": "Tris_21-10\\Tris.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAwwDsAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAwHkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-20T10:29:09.429Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\matde\\Desktop\\Info-Buizza\\C#_2024-25\\Classi-C#\\Classi_Compito\\Tris_21-10\\Tris_21-10\\Program.cs",
               "RelativeDocumentMoniker": "Tris_21-10\\Program.cs",
               "ToolTip": "C:\\Users\\matde\\Desktop\\Info-Buizza\\C#_2024-25\\Classi-C#\\Classi_Compito\\Tris_21-10\\Tris_21-10\\Program.cs",
               "RelativeToolTip": "Tris_21-10\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-20T10:28:49.952Z",
               "EditorCaption": ""

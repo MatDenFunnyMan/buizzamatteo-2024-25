@@ -11,12 +11,20 @@ namespace Tris_21_10
     {
         private char[] scacchiera;
         private char giocatore;
+        private char simboloGiocatore;
+        private char simboloBot;
 
         public Tris()
         {
             scacchiera = new char[9];
             pulisci();
-            giocatore = 'X';
+        }
+
+        public void impostaSimboli(char simboloP1, char simboloCPU)
+        {
+            simboloGiocatore = simboloP1;
+            simboloBot = simboloCPU;
+            giocatore = simboloGiocatore;
         }
 
         public bool posiziona(char simbolo, int pos)
@@ -55,7 +63,7 @@ namespace Tris_21_10
             return true;
         }
 
-        private char vincita()
+        public char vincita()
         {
             // Possibili combinazioni vincenti
             int[,] combinazioniVincenti = new int[,]
@@ -96,39 +104,47 @@ namespace Tris_21_10
             bool mossaValida = false;
             while(!mossaValida) // Scrittura alternativa per "mossaValida == false, perchè ! inverte la condizione, cioè se era true, con ! diventa false"
             {
-                Console.WriteLine($"Tocca al giocatore {giocatore}. Inserisci una posizione (0-8): ");
-                int pos = int.Parse( Console.ReadLine() );
+                Console.Write($"Tocca al giocatore {giocatore}. Inserisci una posizione (1-9): ");
+                string input = Console.ReadLine();
+                int pos;
 
-                try
+                if (int.TryParse(input, out pos))
                 {
-                    mossaValida = posiziona(giocatore, pos);
-                    Console.WriteLine(visualizza());
-
-                    if (vincita() != ' ')
+                    if (pos >= 1 && pos <= 9)
                     {
-                        Console.WriteLine($"Il giocatore {giocatore} ha vinto!");
-                        return;
-                    }
 
-                    if (pareggio())
+                        try
+                        {
+                            mossaValida = posiziona(simboloGiocatore, pos - 1);
+                            Console.WriteLine(visualizza());
+
+                            if (vincita() != ' ')
+                            { 
+                                return;
+                            }
+
+                            if (pareggio())
+                            {
+                                Console.WriteLine("La partita è finita in pareggio!");
+                                return;
+                            }
+                        }
+
+                        catch (Exception)
+                        {
+                            Console.WriteLine("Errore! Input non valido!");
+                        }
+                    }
+                    else
                     {
-                        Console.WriteLine("La partita è finita in pareggio!");
-                        return;
+                        Console.WriteLine("Inserisci un numero valido tra 1 e 9.");
                     }
-
-                    cambiaTurno();
                 }
-
-                catch (Exception)
+                else
                 {
-                    Console.WriteLine("Errore! Input non valido!");
+                    Console.WriteLine("Input non valido. Inserisci un numero intero.");
                 }
             }
-        }
-
-        private void cambiaTurno()
-        {
-            giocatore = (giocatore == 'X') ? 'O' : 'X'; // *?
         }
 
         public void mostraIstruzioni()

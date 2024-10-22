@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tris_21-10")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd3cdc1e53b846108f14eac25a1ca536e8ce5f5f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+712c78e0c563dc468c3678d8ebb5efe45e79e12b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tris_21-10")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tris_21-10")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
